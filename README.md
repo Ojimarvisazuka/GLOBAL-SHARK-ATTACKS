@@ -19,7 +19,7 @@ It seemed like Shark attacks have intensified in the last couple of years. But:
 
 
 ## Data Sourcing
-This dataset is a single table of an excel csv file, and it contains 5763 rows and 16 columns. It came in a zipped format, I extracted the file and proceeded to import into my Power BI desktop for cleaning and visualization.
+This dataset is a single table of an excel csv file, and it contains 5763 rows and 16 columns. It came in a zipped format, I extracted the file and proceeded to import the data to the Power BI desktop for cleaning and visualization.
 
 
 
