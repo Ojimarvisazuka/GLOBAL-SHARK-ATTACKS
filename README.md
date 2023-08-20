@@ -45,7 +45,7 @@ Modelling was not necessary as the dataset was a single table 5763 rows and 16 c
 ## Visualization
 Below is the report which is a single page dashboard
 
-![](GLOBAL_SHARK_ATTACKS_DASHBOARD_Recent_ _ __Page0001-.jpg)
+![](GLOBAL_SHARK_ATTACKS_DASHBOARD_Recent_ _ __Page_0001.jpg)
 
 You can interact with the report [here](https://app.powerbi.com/groups/me/reports/8b5da2e6-3835-4111-b046-00b6d4b891b1/ReportSection671bb8b7525cb9b706ac?experience=power-bi)
 
